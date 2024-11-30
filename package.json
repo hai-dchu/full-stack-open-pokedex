@@ -61,7 +61,7 @@
     "testPathIgnorePatterns": [
       "/node_modules/",
       "/build/",
-      "/e2e-tests/"
+      "/e2e-test/"
     ]
   }
 }
